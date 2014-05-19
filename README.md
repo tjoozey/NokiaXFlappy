@@ -1,7 +1,7 @@
 Flappy Bird Nokia X
 ============
 
-Flappy Bird for Nokia X built on Eclipse ADT, Java, and a bit of Javascript.
+Flappy Bird for Nokia X built on Eclipse ADT, Java, and a bit of Javascript. This app is live on Nokia Ovi Store.
 
 **Sections**
 
